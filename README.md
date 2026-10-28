@@ -17,8 +17,5 @@ I've built projects including my [Smart Glasses Assistant](https://github.com/So
 - Git & GitHub
 
 ### Fun Facts
-
-- 🐍 Python is my primary programming language.
-- ⚙️ I'm interested in backend engineering and API development.
-- 🚀 I enjoy building practical software projects.
-- 🌌 I like clean interfaces with a cyberpunk aesthetic.
+- FL Studio
+- Casual gaming turns to competitive 
