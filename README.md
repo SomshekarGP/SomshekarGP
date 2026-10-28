@@ -1,127 +1,141 @@
-<!-- Animated introduction -->
 <div align="center">
 
-# Hi there, I'm Somshekar 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+PYTHON+%7C+BACKEND+DEVELOPMENT;%3E+DREAM.+CODE.+BUILD." alt="Cyberpunk animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Exploring+Backend+Development;Building+with+FastAPI+%26+Django;Learning+by+Building+Projects" alt="Animated introduction" />
+# <span>⚡ SOMSHEKAR</span>
 
-<p>
-  <a href="https://github.com/SomshekarGP">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/SomshekarGP?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+### `PYTHON DEVELOPER // BACKEND ENTHUSIAST`
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=050816" alt="System online"/>
+<img src="https://img.shields.io/badge/BUILDING-THE_FUTURE-FF00E5?style=for-the-badge&labelColor=050816" alt="Building the future"/>
+
+[ `GITHUB` ](https://github.com/SomshekarGP) · [ `PROJECTS` ](https://github.com/SomshekarGP?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 // SYSTEM PROFILE`
 
-I'm a developer building my skills in Python and backend development through hands-on projects and consistent practice.
+```text
+USER       : Somshekar
+ROLE       : Aspiring Python Backend Developer
+PRIMARY    : Python
+FRAMEWORKS : FastAPI | Django
+OBJECTIVE  : Build. Learn. Improve.
+STATUS     : Constantly upgrading...
+```
 
-- 🐍 Strengthening my Python programming and problem-solving skills.
-- ⚙️ Exploring backend development with FastAPI and Django.
-- 🗄️ Learning how APIs interact with databases and application logic.
-- 🚀 Building projects to turn concepts into practical experience.
-- 📚 Focused on writing readable, maintainable code and understanding how things work under the hood.
+> `// Building practical skills, one project at a time.`
 
----
+I'm developing my skills in Python and backend engineering through hands-on projects, coding practice, and continuous learning.
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
+- ⚡ Strengthening Python and object-oriented programming.
+- 🌐 Exploring REST API development with FastAPI and Django.
+- 🗄️ Learning database integration and API validation.
+- 🔧 Improving code quality and problem-solving skills.
+- 🚀 Turning concepts into working applications.
 
 ---
 
-## 🚀 Featured Projects
-
-I'm continuously working on projects to improve my programming and development skills.
-
-<!-- Replace these examples with links to your actual repositories. -->
-
-| Project | Description | Technologies |
-|---|---|---|
-| [Smart Glasses Assistant](https://github.com/SomshekarGP/smart_glasses) | An existing project exploring a smart glasses assistant. | See repository |
-| [FastAPI Projects](https://github.com/SomshekarGP?tab=repositories) | Explore my backend development projects. | Python, FastAPI |
-| [Python Projects](https://github.com/SomshekarGP?tab=repositories) | Explore my Python practice and project work. | Python |
-
----
-
-## 📊 GitHub Statistics
+## `02 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SomshekarGP&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+**[ PROGRAMMING LANGUAGES ]**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomshekarGP&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
-</div>
+**[ BACKEND DEVELOPMENT ]**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" alt="FastAPI and Django"/>
 
-<img src="https://streak-stats.demolab.com?user=SomshekarGP&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+**[ DEVELOPMENT TOOLS ]**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+## `03 // PROJECT DATABASE`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SomshekarGP/SomshekarGP/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Deepening my understanding of Python and object-oriented programming.
-- Building backend applications with FastAPI and Django.
-- Learning API design, validation, and database integration.
-- Improving problem-solving through regular coding practice.
-- Exploring Docker and modern development workflows.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in learning, building projects, and connecting with other developers.
-
-<a href="https://github.com/SomshekarGP">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+<a href="https://github.com/SomshekarGP/smart_glasses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SomshekarGP&repo=smart_glasses&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=FF00E5&text_color=C9D1D9" alt="Smart Glasses Assistant repository card"/>
 </a>
 
 </div>
 
+**// Explore more repositories**
+
+[ OPEN REPOSITORY DATABASE →](https://github.com/SomshekarGP?tab=repositories)
+
 ---
+
+## `04 // DEVELOPER TELEMETRY`
 
 <div align="center">
 
-*Building, learning, and improving one project at a time.* 💻
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SomshekarGP&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=FF00E5&text_color=C9D1D9" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomshekarGP&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages"/>
+
+</div>
+
+---
+
+## `05 // CONTRIBUTION PROTOCOL`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SomshekarGP/SomshekarGP/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+
+`// EVERY COMMIT IS ANOTHER STEP FORWARD.`
+
+</div>
+
+---
+
+## `06 // CURRENT MISSION`
+
+```python
+class Developer:
+    def __init__(self):
+        self.primary_language = "Python"
+        self.frameworks = ["FastAPI", "Django"]
+        self.missions = [
+            "Master backend fundamentals",
+            "Build practical applications",
+            "Improve problem-solving",
+            "Explore Docker and deployment",
+        ]
+
+    def execute(self):
+        return "LEARN -> BUILD -> IMPROVE -> REPEAT"
+```
+
+---
+
+## `07 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+<a href="https://github.com/SomshekarGP">
+  <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=050816" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+```text
+> Connection established.
+> Developer mode: ACTIVE
+> Next objective: Build something extraordinary.
+```
+
+### `// DREAM → CODE → BUILD`
+
+**`[ END OF TRANSMISSION ]`**
 
 </div>
