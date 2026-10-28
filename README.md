@@ -16,6 +16,7 @@ I've built projects including my [Smart Glasses Assistant](https://github.com/So
 - SQL
 - Git & GitHub
 
-### Fun Facts
-- FL Studio
+### Facts
+- FL Studio for music
+- Partial book worm
 - Casual gaming turns to competitive 
