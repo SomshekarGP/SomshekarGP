@@ -16,7 +16,7 @@ I've built projects including my [Smart Glasses Assistant](https://github.com/So
 - SQL
 - Git & GitHub
 
-### Facts
+### Hobbies
 - FL Studio for music
 - Partial book worm
 - Casual gaming turns to competitive 
